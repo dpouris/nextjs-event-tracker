@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "title": "Programming for everyone",
+    "description": "Programming for everyone",
+    "loc": "Rovertou Gkalli, 73132",
+    "url": "https://media.istockphoto.com/photos/attending-a-conference-to-develop-their-careers-picture-id1141465434?k=20&m=1141465434&s=612x612&w=0&h=EcRkf0KwPhc7Mxy3iLlqdieniMabM2rLBDJl6XhTwb0=",
+    "date": "July 01, 2019",
+    "featured": true
+  },
+  {
+    "id": 1,
+    "title": "Networking for introverts",
+    "description": "Learn how to network but for introverts",
+    "loc": "Antoniou Prodromou, 73133",
+    "url": "https://thumbs.dreamstime.com/b/developing-programmer-team-development-website-design-coding-technologies-working-software-company-office-140335451.jpg",
+    "date": "August 06, 2022",
+    "featured": false
+  },
+  {
+    "id": 2,
+    "title": "Networking for extroverts",
+    "description": "Learn how to network but for extrovers",
+    "loc": "Gestis Gkalli, 34006",
+    "url": "https://thumbs.dreamstime.com/b/website-design-development-project-conceptual-image-164232735.jpg",
+    "date": "April 03, 2022",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "I'm in love with NEXT",
+    "description": "Learn NEXT.js",
+    "loc": "Lordou Virona, 70232",
+    "url": "https://thumbs.dreamstime.com/b/concept-agile-software-development-concept-agile-software-development-107923572.jpg",
+    "date": "May 09, 2022",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "I'm in love with React",
+    "description": "Learn React.js",
+    "loc": "Lordou Virona, 34006",
+    "url": "https://thumbs.dreamstime.com/b/two-people-coding-code-program-programming-developer-computer-web-development-coder-working-design-software-desk-office-139990440.jpg",
+    "date": "May 06, 2022",
+    "featured": true
+  }
+]
