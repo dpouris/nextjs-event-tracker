@@ -2,9 +2,9 @@ import type { GetStaticProps, NextPage } from "next";
 import React from "react";
 import { EventContainer } from "../components";
 import data from "../dummyData.json";
-import Event from "../types/EventType";
+import type { EventProp } from "../types/EventType";
 
-const Home = ({ events }: { events: Event[] }) => {
+const Home = ({ events }: EventProp) => {
   return (
     <div className="flex flex-col items-center justify-center gap-3 my-4">
       <h1 className="text-3xl font-medium text-slate-700 mb-4 border-y-2 border-emerald-400 rounded-lg py-4 px-3 ">

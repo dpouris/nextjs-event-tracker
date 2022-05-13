@@ -15,7 +15,7 @@ This is a simple event tracker that can be used to track events in your applicat
    ## pnpm ⭐️
 
    ```
-   pnpm add
+   pnpm install
    ```
 
    ## npm 📦
