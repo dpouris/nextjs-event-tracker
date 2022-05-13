@@ -10,7 +10,7 @@ This is a simple event tracker that can be used to track events in your applicat
    git clone https://github.com/dpouris/nextjs-event-tracker.git
    ```
 
-2. Run the following command:
+2. Install dependencies:
 
    ## pnpm ⭐️
 
