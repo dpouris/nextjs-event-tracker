@@ -5,7 +5,7 @@ import type { GetStaticProps } from "next";
 import type { EventProp } from "../../types/EventType";
 import Head from "next/head";
 
-const EventPage = ({ currentEvent }: EventProp) => {
+const EventPage: React.FC<EventProp> = ({ currentEvent }) => {
   return (
     <>
       <Head>
